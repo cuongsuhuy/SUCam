@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ivCapture.setOnClickListener(this);
         ivFilter.setOnClickListener(this);
 
-        Toast toast=Toast.makeText(getApplicationContext(), "Make by Shishimon",   Toast.LENGTH_LONG);
+        Toast toast=Toast.makeText(getApplicationContext(), "Make by Huy Cuong",   Toast.LENGTH_LONG);
         toast.show();
     }
 
